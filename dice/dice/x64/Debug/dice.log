@@ -1,0 +1,3 @@
+﻿  Кости.cpp
+C:\Users\igorb\source\repos\Кости\Кости\Кости.cpp(66,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Кости.vcxproj -> C:\Users\igorb\source\repos\Кости\x64\Debug\Кости.exe
